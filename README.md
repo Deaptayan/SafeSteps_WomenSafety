@@ -3,6 +3,7 @@ The Code given here may not work properly because it is orginally built with MIT
 I have also uploaded the apk and the aia file for this app in this.
 download the "APK" file to use the app directly.
 or you Can upload the "AIA" file to the MIT App Inventor to work with it.
+**The 15th Folder is the "APK" of the App**
 
 # SafeSteps - Personal Safety App
 
